@@ -1,5 +1,5 @@
 # Práctica 1 - Comentario Artículos Tresca Projects y eldiario.es
-# Comentario Artículo Tresca Projects
+# Comentario artículo Tresca Projects
 ## *Are social media harmful? Yes, say most Europeans, but it's complicated*
 
 [Tresca Projects](https://trescaproject.eu/about/) es un proyecto de ámbito europeo cuyo objetivo es el de generar confianza en la ciencia a través de la innovación en las prácticas comunicativas de investigadores y periodistas. En su blog tratan diversos temas relacionados con la visión que tiene la ciudadanía de la ciencia en general y de los avances científicos. Además, tienen intención de generar un espacio donde debatir sobre la importancia de una comunicación científica eficaz, poniendo énfasis en cuestiones como la desinformación. Sus artículos están a menudo basados en investigaciones cuantitativas que llevan a cabo ellos mismos a través de encuestas y cuestionarios, que es el caso del [el artículo que vamos a comentar](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/). En esta entrada del [blog](https://trescaproject.eu/blog/), el foco se pone en la relación de las redes sociales y la falta de confianza en la ciencia. 
