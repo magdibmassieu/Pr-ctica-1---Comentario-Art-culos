@@ -1,4 +1,4 @@
-# Práctica 1 - Comentario Artículos: Tresca Projects y eldiario.es
+# Práctica 1 - Comentario Artículos Tresca Projects y eldiario.es
 # Comentario Artículo Tresca Projects
 ## *Are social media harmful? Yes, say most Europeans, but it's complicated*
 
@@ -15,7 +15,7 @@ A partir de esta cuestión se produce un viraje en el enfoque del texto de modo 
 
 
 
-# Comentario Gráfico emitido en 24 Horas
+# Comentario artículo eldiario.es
 ## *Seis gráficos manipulados en las televisiones españolas*
 
 En un [artículo publicado en el medio online eldiario.es](https://www.eldiario.es/economia/graficos-manipulados-television_1_2554476.html), se incluye, entre otros, el caso de un gráfico manipulado y emitido en el canal 24Horas, de RTVE. El texto pretende hacer una reflexión a cerca de los peligros de la comunicación de información basada en datos en las televisiones españolas, tanto de ámbito público como privado. Este modo de presentar la información tiene una enorme capacidad de inducir a error a los telespectadores, especialmente en un contexto en el que la población no está tan acostumbrada a la visualización de datos y no controla los distintos formatos que se emplean para ello.
