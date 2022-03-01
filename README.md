@@ -11,7 +11,11 @@ Partiendo de esta pregunta, parece que el tema a tratar es la correlación entre
 
 > So what do most people – citizens, rather than scientists – think about it?
 
-A partir de esta cuestión se produce un viraje en el enfoque del texto de modo que, a medida que avanza el artículo, vemos que la conclusión a la que llega es otra. La intención comunicativa de la autora no es tanto la de responder a esa primera pregunta y explorar la relación entre el uso de redes sociales y salud mental, sino que se centra más bien en **la disposición de las personas consultadas a comprobar los datos por sí mismas**. De ahí que el gráfico que incluye se refiera a este aspecto y lo clasifique según los países a los que pertenecían los consultados para el estudio. Sin embargo, no se dan los resultados de las investigaciones llevadas a cabo, ni revelan datos de interés acerca del peligro de las redes sociales, tema con el que inicia el texto. Por lo tanto, el gráfico incluido no aporta una información relevante al que parecía que iba a ser el tema a tratar. 
+A partir de esta cuestión se produce un viraje en el enfoque del texto de modo que, a medida que avanza el artículo, vemos que la conclusión a la que llega es otra. La intención comunicativa de la autora no es tanto la de responder a esa primera pregunta y explorar la relación entre el uso de redes sociales y salud mental, sino que se centra más bien en **la disposición de las personas consultadas a comprobar los datos por sí mismas**. De ahí que el gráfico que incluye se refiera a este aspecto y lo clasifique según los países a los que pertenecían los consultados para el estudio. 
+
+![image](https://user-images.githubusercontent.com/99591485/156172798-000ee7f6-9fdc-44c5-a576-e127042d620d.png)
+
+Sin embargo, no se dan los resultados de las investigaciones llevadas a cabo, ni revelan datos de interés acerca del peligro de las redes sociales, tema con el que inicia el texto. Por lo tanto, el gráfico incluido no aporta una información relevante al que parecía que iba a ser el tema a tratar. 
 
 
 
