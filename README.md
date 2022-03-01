@@ -7,7 +7,7 @@
 El texto comienza con una pregunta frecuente a la hora de hablar de redes sociales:
 > Are social media, which are supposed to bring us together, tearing us apart?
 
-Partiendo de esta pregunta, parece que el tema a tratar es la correlación entre ambos factores. Al menos la primera parte del artículo explora esta cuestión, hasta que llega a la pregunta por la opinión de las personas encuestadas.
+Partiendo de esta pregunta, parece que el tema a tratar es la correlación entre ambos factores. Al menos la primera parte del artículo explora esta cuestión, hasta que llega a la pregunta por la opinión de las personas encuestadas:
 
 > So what do most people – citizens, rather than scientists – think about it?
 
