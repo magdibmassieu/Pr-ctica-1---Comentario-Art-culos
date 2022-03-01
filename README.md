@@ -7,7 +7,11 @@
 El texto comienza con una pregunta frecuente a la hora de hablar de redes sociales:
 > Are social media, which are supposed to bring us together, tearing us apart?
 
-Partiendo de esta pregunta, parece que el tema a tratar es la correlación entre ambos factores. Sin embargo, a medida que avanza el artículo, vemos que la conclusión a la que llega es otra. La intención comunicativa de la autora no es tanto la de responder a esa primera pregunta y explorar la relación entre el uso de redes sociales y salud mental, sino que se centra más bien en **la disposición de las personas consultadas a comprobar los datos por sí mismas**. De ahí que el gráfico que incluye se refiera a este aspecto y lo clasifique según los países a los que pertenecían los consultados para el estudio. Sin embargo, no se dan los resultados de las investigaciones llevadas a cabo, ni revelan datos de interés acerca del peligro de las redes sociales, tema con el que inicia el texto. Por lo tanto, el gráfico incluido no aporta una información relevante al que parecía que iba a ser el tema a tratar. 
+Partiendo de esta pregunta, parece que el tema a tratar es la correlación entre ambos factores. Al menos la primera parte del artículo explora esta cuestión, hasta que llega a la pregunta por la opinión de las personas encuestadas.
+
+> So what do most people – citizens, rather than scientists – think about it?
+
+A partir de esta cuestión se produce un viraje en el enfoque del texto de modo que, a medida que avanza el artículo, vemos que la conclusión a la que llega es otra. La intención comunicativa de la autora no es tanto la de responder a esa primera pregunta y explorar la relación entre el uso de redes sociales y salud mental, sino que se centra más bien en **la disposición de las personas consultadas a comprobar los datos por sí mismas**. De ahí que el gráfico que incluye se refiera a este aspecto y lo clasifique según los países a los que pertenecían los consultados para el estudio. Sin embargo, no se dan los resultados de las investigaciones llevadas a cabo, ni revelan datos de interés acerca del peligro de las redes sociales, tema con el que inicia el texto. Por lo tanto, el gráfico incluido no aporta una información relevante al que parecía que iba a ser el tema a tratar. 
 
 
 
