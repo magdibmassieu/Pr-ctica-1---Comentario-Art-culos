@@ -10,13 +10,17 @@ En 2019 se produjo la desaparición del último macho de la especie del rinocero
 
 En nuestro planeta existen más de 7,7 millones de especies de animales, y más del 20% de ellas está en peligro de extinción. A medida que pasan los años, la lista de especies ya extintas y en peligro de extinción es cada vez más grande. Algunas de ellas son emblemáticas, otras menos conocidas; pero todas son vitales para el equilibrio de los ecosistemas del planeta. De hecho, lo más preocupante es que la desaparición de una sola especie provoca el llamado “efecto cascada”: su extinción o extrema reducción pone en peligro al resto del ecosistema. 
 
-Según datos de la Unión Internacional para la Conservación de la Naturaleza, aproximadamente 5.200 especies de animales se encuentran en peligro de extinción en la actualidad. En la página web de dicho organismo existe una [lista roja de especies](https://www.iucnredlist.org) en la que se desglosan los porcentajes de especies amenazadas según el grupo al que pertenecen, siendo el más vulnerable el de las cícadas (del reino vegetal).
+Según datos de la Unión Internacional para la Conservación de la Naturaleza (IUCN), aproximadamente 5.200 especies de animales se encuentran en peligro de extinción en la actualidad. En la página web de dicho organismo existe una [lista roja de especies](https://www.iucnredlist.org) en la que se desglosan los porcentajes de especies amenazadas según el grupo al que pertenecen, siendo el más vulnerable el de las cícadas (del reino vegetal). A partir de la información dada por la IUCN, la periodista Katharina Buchholz realizó el siguiente gráfico mostrando la evolución de las distintas especies animales desde 2007 hasta 2020:
 
-A continuación, se adjunta una infografía publicada en el diario británico theguardian titulado [“Last legs: the species with only a few remaining individuals – graphic”](https://www.theguardian.com/environment/2015/jun/13/last-legs-species-few-remaining-individuals-graphic). Se trata de un gráfico realizado en 2015 que recoge estimaciones del número restante de algunas de estas especies amenazadas y que en los últimos años han visto reducida drásticamente su cantidad.
+![Image Text](https://cdn.statcdn.com/Infographic/images/normal/17122.jpeg)
+
+###### Gráfico tomado de Statista, por Katharina Buchholz, 2021
+
+Una infografía que explica eficazmente la gravedad de la pérdida de biodiversidad es la publicada en el diario británico The Guardian, en un artículo titulado [“Last legs: the species with only a few remaining individuals – graphic”](https://www.theguardian.com/environment/2015/jun/13/last-legs-species-few-remaining-individuals-graphic). Se trata de un gráfico realizado en 2015 que recoge estimaciones del número restante de algunas de estas especies amenazadas y que en los últimos años han visto reducida drásticamente su cantidad.
 
 ![Image Text](https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/6/11/1434033087216/webendangered01.jpg)
 
-###### Gráfico tomado de The Guardian, por Pete Guest, 2015
+###### Infografía tomada de The Guardian, por Pete Guest, 2015
 
 El caso más alarmante es el de la tortuga de caparazón blando del Yangtzé, cuyo estado de conservación actual es el de “peligro crítico”. El gráfico, al no estar actualizado, no contempla [la muerte de la última hembra conocida en 2019](https://www.elperiodico.com/es/ciencia/20190415/tortuga-gigante-caparazon-blando-yangtse-7408747), ya que actualmente solo existen tres ejemplares de la especie. También se incluye el caso del rinoceronte blanco del norte, que se mencionaba en la primera parte del artículo. Aunque en el momento en que se creó el gráfico contaba con cinco ejemplares, [en 2019 se produjo la muerte del único macho que quedaba en el mundo](https://traficoespecies.wwf.es/blog/adios-sudan-el-rinoceronte-blanco-del-norte-camino-la-extincion). 
 
