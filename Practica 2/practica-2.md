@@ -1,4 +1,4 @@
-## Especies en peligro de extinción: una lista que no para de crecer
+## Especies en peligro de extinción: una lista que no cesa de crecer
 
 En 2019 se produjo la desaparición del último macho de la especie del rinoceronte blanco del norte, en Sudán y Ami Vitale, fotoperiodista de National Geographic, estuvo ahí para verlo:
 
