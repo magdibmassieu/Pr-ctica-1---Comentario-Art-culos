@@ -6,7 +6,7 @@ En 2019 se produjo la desaparición del último macho de la especie del rinocero
 
 ![Image Text](https://www.nationalgeographic.com.es/medio/2020/02/21/rinocerontesudan4_98df3614_1280x853.jpg)
 
-###### Fotografía del último rinoceronte blanco macho, por National Geographic
+###### Fotografía del último rinoceronte blanco del norte macho, por National Geographic
 
 En nuestro planeta existen más de 7,7 millones de especies de animales, y más del 20% de ellas está en peligro de extinción. A medida que pasan los años, la lista de especies ya extintas y en peligro de extinción es cada vez más grande. Algunas de ellas son emblemáticas, otras menos conocidas; pero todas son vitales para el equilibrio de los ecosistemas del planeta. De hecho, lo más preocupante es que la desaparición de una sola especie provoca el llamado “efecto cascada”: su extinción o extrema reducción pone en peligro al resto del ecosistema. 
 
