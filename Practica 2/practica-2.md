@@ -1,6 +1,6 @@
 ## Especies en peligro de extinción: una lista que no cesa de crecer
 
-En 2019, se produjo la desaparición del último macho de la especie del rinoceronte blanco del norte, llamado Sudán, y Ami Vitale, fotoperiodista de National Geographic, estuvo ahí para verlo:
+En 2019 se produjo la desaparición del último macho de la especie del rinoceronte blanco del norte, llamado Sudán, y Ami Vitale, fotoperiodista de National Geographic, estuvo ahí para verlo:
 
 > “Ver morir a una criatura, la última de su especie, es algo que espero no volver a experimentar nunca. Fue como contemplar nuestra propia destrucción”
 
