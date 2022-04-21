@@ -10,4 +10,4 @@ En el caso de la primera, se trata de varios comentarios relativos al buen uso d
 
 En la segunda tarea, se trata de un artículo de elaboración propia apoyado en una infografía publicada en el diario británico The Guardian. Dicha infografía mostraba la cantidad de ejemplares restantes de algunas de las miles de especies que se encuentran en peligro de extinción actualmente. Por lo tanto, en el documento se hace una reflexión acerca del alarmante estado de la destrucción de la diversidad, apoyándome en dicha infografía.
 
-La tercera tarea la he hecho a través de una cuenta creada en Jupyterhub. Ahí, a lo largo de las clases, hemos ido aprendiendo a utilizar herramientas de visualización de datos, librerías y funciones. 
+La tercera tarea la he hecho a través de una cuenta creada en Jupyterhub. Ahí, a lo largo de las clases, hemos ido aprendiendo a utilizar herramientas de visualización de datos, librerías y funciones. La tercera práctica consiste en reunir todo lo que hemos realizado en los cuadernos y completarlos con comentarios propios que expliquen qué hemos hecho, paso a paso, de modo que entendamos qué hemos hecho y qué nos falta por entender.
