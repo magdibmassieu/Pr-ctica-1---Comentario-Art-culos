@@ -6,7 +6,7 @@
 
 ### En total hemos hecho tres cuadernos: probando-con-r, python-api-covid19-pandas y api-pandas-folium. 
 
-### El primero de ellos fue una prueba con R, un entorno y lenguaje de programación con un enfoque al análisis estadístico
+### El primero de ellos fue una prueba con R, un entorno y lenguaje de programación con un enfoque al análisis estadístico utilizado ampliamente en periodismo y visualización de datos.
 
 ### Para el segundo, utilizamos un datos relativos a la evolución de la pandemia del Covid en distintos países. A través de gráficas comparamos de manera conjunta la evolución de tres casos: España, Italia y México.
 
