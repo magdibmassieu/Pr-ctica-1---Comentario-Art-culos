@@ -8,7 +8,7 @@
 
 Philip Meyer es un periodista, profesor y escritor estadounidense, cuyas ideas –basadas en la intención de **“convertir el periodismo en una ciencia”**– han cambiado la manera en que se ejerce el periodismo, sobre todo a partir de los 60 y llegando hasta la actualidad. 
 
-Meyer fue designado para la cobertura de los disturbios de Detroit en 1967, como parte de la plantilla del Detroit Free Press. Para ofrecer un relato detallado, Meyer propuso una investigación científica para identificar las causas de las revueltas, en la que hizo uso del ordenador para las pruebas estadísticas de la muestra, demostrando que las tesis asumidas por la prensa del momento sobre las razones de disturbios raciales eran falsas.
+Meyer fue designado para la cobertura de los disturbios de Detroit en 1967, como parte de la plantilla del Detroit Free Press. Para ofrecer un relato detallado, **Meyer propuso una investigación científica para identificar las causas de las revueltas, en la que hizo uso del ordenador para las pruebas estadísticas de la muestra**, demostrando que las tesis asumidas por la prensa del momento sobre las razones de disturbios raciales eran falsas.
 
 Este trabajo fue decisivo para la profesión periodística, **sentando las bases del “periodismo de precisión”** (así tituló su obra publicada en 1973, que supone el primer tratado sobre la nueva forma de hacer información). También le sirvió para que, en 1968, el personal del Detroit Free Press ganara el Premio Pulitzer de Reportaje Local General. 
 
@@ -28,7 +28,7 @@ Florence Nightingale (1820-1910) fue una enfermera inglesa, pionera de la enferm
 
 Las siglas *CAR* se refieren al concepto de **periodismo asistido por ordenador** y describen el uso de ordenadores para recopilar y analizar datos necesarios para la redacción de noticias, y está **estrechamente ligado al “periodismo de precisión"**.
 
-Comenzó en los años 50, cuando la cadena de televisión estadounidense CBS utilizó un ordenador UNIVAC I (la primera computadora comercial fabricada en EE. UU.) para analizar los resultados de las elecciones presidenciales del país. 
+Comenzó en los años 50, cuando la cadena de televisión estadounidense CBS utilizó un ordenador UNIVAC I (*UNIVersal Automatic Computer I*) para analizar los resultados de las elecciones presidenciales del país. 
 
 Una de las primeras aplicaciones fue la de Philip Meyer tras los disturbios en Detroit (utilizó un ordenador central para demostrar que las personas que habían asistido a la universidad tenían la misma probabilidad de haberse alzado que las que habían abandonado la escuela secundaria). Años más tarde, en su libro *Precision Journalism*, Meyer sostiene que un buen periodista debe utilizar bases de datos y encuestas, ambas asistidas por ordenador. 
 
