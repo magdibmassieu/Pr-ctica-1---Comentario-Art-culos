@@ -8,14 +8,14 @@
 
 Philip Meyer es un periodista, profesor y escritor estadounidense, cuyas ideas –basadas en la intención de **“convertir el periodismo en una ciencia”**– han cambiado la manera en que se ejerce el periodismo, sobre todo a partir de los 60 y llegando hasta la actualidad. 
 
-Meyer fue designado para la cobertura de los disturbios de Detroit en 1967, como parte de la plantilla del Detroit Free Press. Para ofrecer un relato detallado, Meyer propuso una investigación científica para identificar las reivindicaciones de los alborotadores, en la que hizo uso del ordenador para las pruebas estadísticas de la muestra, demostrando que las tesis asumidas por la prensa del momento sobre las razones de disturbios raciales eran falsas.
+Meyer fue designado para la cobertura de los disturbios de Detroit en 1967, como parte de la plantilla del Detroit Free Press. Para ofrecer un relato detallado, Meyer propuso una investigación científica para identificar las causas de las revueltas, en la que hizo uso del ordenador para las pruebas estadísticas de la muestra, demostrando que las tesis asumidas por la prensa del momento sobre las razones de disturbios raciales eran falsas.
 
 Este trabajo fue decisivo para la profesión periodística, **sentando las bases del “periodismo de precisión”** (así tituló su obra publicada en 1973, que supone el primer tratado sobre la nueva forma de hacer información). También le sirvió para que, en 1968, el personal del Detroit Free Press ganara el Premio Pulitzer de Reportaje Local General. 
 
 
 ### **2. ¿Quién fue Florence Nightingale?**
 
-Florence Nightingale (1820-1910) fue una enfermera inglesa, pionera de la enfermería profesional moderna. Tras la Guerra de Crimea, trabajando en los hospitales se dio cuenta de que las altas tasas de mortalidad de los soldados se debían sobre todo a las malas condiciones sanitarias de los hospitales. Nightingale recabó información y reunió estadísticas sobre mortalidad, introduciendo a su labor la estadística: hacía gráficas, formularios sobre las causas de enfermedad y de muerte... 
+Florence Nightingale (1820-1910) fue una enfermera inglesa, pionera de la enfermería profesional moderna y creadora del primer modelo conceptual de enfermería. Tras la Guerra de Crimea, trabajando en los hospitales se dio cuenta de que las altas tasas de mortalidad de los soldados se debían sobre todo a las malas condiciones sanitarias de los hospitales. Nightingale recabó información y reunió estadísticas sobre mortalidad, introduciendo a su labor la estadística: hacía gráficas, formularios sobre las causas de enfermedad y de muerte... 
 
 **Creó el *Diagrama de la Rosa* que, desde el punto de vista estadístico, fue muy novedoso para la época**. En este diagrama se representan tres variables –el tiempo (cada sector es un mes), el número de muertes (el área del sector) y la causa de la muerte (color)– en un momento en que los gráficos más habituales representaban solo una o dos variables.
 
@@ -26,7 +26,7 @@ Florence Nightingale (1820-1910) fue una enfermera inglesa, pionera de la enferm
 
 ### **1. ¿Cuál fue el comienzo del CAR (Computer Assisted Reporting)?**
 
-Las siglas CAR se refieren al concepto de **periodismo asistido por ordenador** y describen el uso de ordenadores para recopilar y analizar datos necesarios para la redacción de noticias, y está **estrechamente ligado al “periodismo de precisión"**.
+Las siglas *CAR* se refieren al concepto de **periodismo asistido por ordenador** y describen el uso de ordenadores para recopilar y analizar datos necesarios para la redacción de noticias, y está **estrechamente ligado al “periodismo de precisión"**.
 
 Comenzó en los años 50, cuando la cadena de televisión estadounidense CBS utilizó un ordenador UNIVAC I (la primera computadora comercial fabricada en EE. UU.) para analizar los resultados de las elecciones presidenciales del país. 
 
@@ -88,6 +88,19 @@ Antes de empezar a trazar la ruta hacia el fichero con el que deseamos trabajar,
 Habría que introducir el comando `TYPE`, que sirve para visualizar el contenido de archivos de texto planos (como los .md). Esto nos permitirá ver el contenido del archivo de texto, pero no editarlo (para lo que tendríamos que recurrir a un editor de texto como nano, por ejemplo). 
 
 
-# Segunda parte: pregunta de desarrollo
+# **Segunda parte: pregunta de desarrollo**
 
+## ** 1. Qué es el periodismo de datos. Cómo se relaciona con la visualización de datos.**
+
+**El periodismo de datos es el resultado de la propia evolución de la sociedad de la información** –en la que vivimos desde la década de los 60’ y en la que comienzan a darse las primeras manifestaciones del uso de esta nueva manera de hacer periodismo. Su antecedente directo está en el periodismo de precisión, que se define como el uso de métodos de análisis de las ciencias sociales unido al software estadístico y ordenadores, con el fin de construir una historia periodística. En resumen, **se trata de un compendio de elementos fundamentales: periodismo, investigación, datos, aplicaciones informáticas y visualización.**
+
+No obstante, **el periodismo de datos moderno, del que nos nutrimos en la actualidad, nace ya en el siglo XXI** (entre 2006-200), como resultado de una combinación de factores (entre los que están la abundancia de software de código abierto, HTML5 y Open Data). En un contexto en que la industria predominante es la del conocimiento, en la que disponemos de acceso a cantidades ingentes de datos, **el *periodismo guiado por datos* los incorpora como una parte más del trabajo periodístico, sin por ello menospreciar la parte periodística de la profesión**. De hecho, Philip Meyer, en su libro *Precision Journalism* (1973), sostiene que un periodista debe utilizar bases de datos y encuestas, ambas asistidas por ordenador. 
+
+Esta definición está más en sintonía con el término *computer-assisted reporter* (reportero asistido por ordenador). En la edición de 2002, Meyer va un paso más allá y afirma:
+
+> "Un periodista tiene que ser un gestor de bases de datos"
+
+De estas palabras deducimos que, en un mismo profesional, deben implicarse distintos saberes o capacidades: competencias informáticas, desarrollo de aplicaciones de noticias y conocimientos en visualización de datos. 
+
+No obstante, además de la gestión de los datos como tal (también los datos en abierto), una parte fundamental es la inclusión de la visualización de datos, para facilitar la comprensión de estos. Sin embargo, este elemento no solo debe entenderse como un producto final; **en la etapa de visualización, el periodista también realiza análisis, aplica técnicas estadísticas y programas informáticos**. De este modo, el periodista de datos –*data journalist*, término más utilizado actualmente– consigue que, de un gran volumen de datos, pueda sacar hipótesis o conclusiones a lo largo del proceso. Estos se materializarían posteriormente en una historia, que llegaría finalmente al público.
 
