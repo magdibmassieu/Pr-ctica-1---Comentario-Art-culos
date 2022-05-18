@@ -35,7 +35,7 @@ Una de las primeras aplicaciones fue la de Philip Meyer tras los disturbios en D
 
 ### **2. ¿Qué es nano?**
 
-`nano` es un programa de edición de textos (o editor de textos). Permite escribir desde la terminal empleando el lenguaje Markdown y crear archivos .md, entre otros. 
+`nano` es un programa de edición de textos (o editor de textos). Permite escribir desde la terminal empleando el lenguaje Markdown y crear archivos `.md`, entre otros. 
 
 
 ### **3. ¿Cuál es la estructura de las sentencias/instrucciones en la línea de comandos?**
@@ -50,6 +50,7 @@ La `Shell` tiene varios dialectos posibles. El más común es `bash`, pero, en m
 
 
 ### **5. ¿Cómo verías las variables de entorno de tu shell "PATH"? Escribe su valor también.**
+
 Utilizo el comando `env`, que sirve para visualizar en pantalla todas las variables de entorno. También podemos utilizar el comando `env | less`, para ver menos, porque son demasiadas variables y a menudo no caben en la pantalla. 
 
 __CFBundleIdentifier=com.apple.Terminal
